@@ -1,7 +1,23 @@
 [
   {
     "name": "Home",
-    "id": "", 
+    "id": "",
     "filepath": "home.md"
+  },
+  {
+    "name": "About",
+    "id": "about",
+    "filepath": "about.md"
+  },
+  {
+    "name": "Posts",
+    "id": "posts",
+    "posts": [
+      {
+        "name": "Hello World Post",
+        "id": "hello-world",
+        "filepath": "posts/hello.md"
+      }
+    ]
   }
 ]
