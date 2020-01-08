@@ -1,8 +1,25 @@
 body {
-  background-color: #e2b696;
+  background-color: #fefbec;
   font-family: "Lora", serif;
 }
 
 #taryn-morris {
   background-color: #6c86a5;
+  color: #fff;
+  padding-left: 5px;
+}
+
+#headshot {
+  max-width: 100%;
+}
+
+#pic {
+  float: left;
+  width: 30%;
+}
+
+#text {
+  padding-left: 1rem;
+  float: left;
+  width: 60%;
 }
