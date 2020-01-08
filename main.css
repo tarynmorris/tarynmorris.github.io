@@ -1,5 +1,5 @@
 body {
-  background-color: #fefbec;
+  background-color: #ebf5fb;
   font-family: "Lora", serif;
 }
 
@@ -22,4 +22,8 @@ body {
   padding-left: 1rem;
   float: left;
   width: 60%;
+}
+
+nav.horizontal ul {
+  min-width: 300px;
 }
