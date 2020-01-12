@@ -3,7 +3,8 @@
 <div id="pic">
 
 <img id="headshot" class="rounded" src="assets/headshot.jpg" alt="headshot - Taryn Morris" width=402 />
-
+<i class="fa fa-github fa-lg"></i>
+<i class="fa fa-linkedin fa-lg"></i>
 </div>
 
 <div id="text">
@@ -13,3 +14,5 @@ Welcome to my blog! I am a second year Social Studies teacher at T.C. Williams H
 In addition to TLP, I have also challenged myself to dive further in to technology by learning the basics of coding and blog building. The blog you are currently on was built using the web application [Propolis](https://tirey.me/#/)
 
 </div>
+
+<div style='clear:both;'></div>
