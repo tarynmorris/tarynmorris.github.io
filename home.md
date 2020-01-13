@@ -1,11 +1,13 @@
-# **Taryn Morris**
+# **Taryn Morris** <a href="https://www.linkedin.com/in/taryn-edwards-8710b5aa/"><i class="fa fa-linkedin fa-sm"></i></a> <a href="https://twitter.com/tarynemorris"><i class="fa fa-twitter fa-sm"></i></a> <a href="https://github.com/tarynmorris/"><i class="fa fa-github fa-sm"></i></a>
+
+---
+
+<br>
 
 <div id="pic">
 
 <img id="headshot" class="rounded" src="assets/headshot.jpg" alt="headshot - Taryn Morris" width=402 />
-<i class="fa fa-github fa-lg"></i>
-<i class="fa fa-linkedin fa-lg"></i>
-<i class="fa fa-twitter fa-lg"></i>
+
 </div>
 
 <div id="text">
@@ -17,5 +19,3 @@ In addition to TLP, I have also challenged myself to dive further in to technolo
 </div>
 
 <div style='clear:both;'></div>
-
-## **About Me**

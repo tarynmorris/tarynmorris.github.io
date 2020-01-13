@@ -4,37 +4,44 @@ body {
 }
 
 #taryn-morris {
-  color: #fff;
-  background-color: #6c86a5;
+  color: #000;
+
   padding-left: 5px;
 }
 
 #headshot {
+  width: 400px;
+  float: left;
   max-width: 100%;
 }
 
 #pic {
   float: left;
   width: 30%;
+  padding-left: 1rem;
 }
 
 #text {
   padding-left: 1rem;
-  float: left;
   width: 60%;
+  float: left;
 }
 
 nav.horizontal {
-  background-color: #6c86a5;
 }
 nav.horizontal ul {
   min-width: 300px;
 }
 
 nav.horizontal a {
-  color: #fff;
+  color: #000;
 }
 
-#about-me {
-  float: inline-start;
+hr {
+  color: #000;
+  border-color: #000;
+}
+
+.post h1 a {
+  color: #000;
 }
