@@ -5,6 +5,7 @@
 <img id="headshot" class="rounded" src="assets/headshot.jpg" alt="headshot - Taryn Morris" width=402 />
 <i class="fa fa-github fa-lg"></i>
 <i class="fa fa-linkedin fa-lg"></i>
+<i class="fa fa-twitter fa-lg"></i>
 </div>
 
 <div id="text">
@@ -16,3 +17,5 @@ In addition to TLP, I have also challenged myself to dive further in to technolo
 </div>
 
 <div style='clear:both;'></div>
+
+## **About Me**
