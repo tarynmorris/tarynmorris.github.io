@@ -10,7 +10,7 @@
     "id": "posts",
     "posts": [
       {
-        "name": "Hello World Post",
+        "name": "1.13.20 * Hello World!",
         "id": "hello-world",
         "filepath": "posts/hello.md"
       }
