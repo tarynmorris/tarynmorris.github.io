@@ -6,7 +6,7 @@ First blog post! Hello world! Alright so, today I want to talk about how I'm app
 
 ## How I'm learning to code
 
-I've never coded before last year. I started with [codeacademy's](https://codeacademy.com) intro to HTML sometime in November 2019, but as a teacher, life got kind of busy. Thankfully, winter break was extra long this year which gave me time to not only finish that course, but also to decide that learning to code was something that I really wanted to dive in to for my own personal and professional development. The blog you're currently on is how I am utilizing what I'm still learning on Code Academy - I finished their intro to CSS course yesterday and just started the JavaScript course (gotta love maintaining a streak). I love coming home and focusing on my own learning after a full day of prioritizing everyone else. I'll periodically update this blog as to what I'm using and what my next steps are!
+I had never coded before last year. I started with [codeacademy's](https://codeacademy.com) intro to HTML sometime in November 2019, but as a teacher, life got kind of busy. Thankfully, winter break was extra long this year which gave me time to not only finish that course, but also to decide that learning to code was something that I really wanted to dive in to for my own personal and professional development. The blog you're currently on is how I am utilizing what I'm still learning on Code Academy - I finished their intro to CSS course yesterday and just started the JavaScript course (gotta love maintaining a streak). I love coming home and focusing on my own learning after a full day of prioritizing everyone else. I'll periodically update this blog as to what I'm using and what my next steps are!
 
 ## My TLP Project
 

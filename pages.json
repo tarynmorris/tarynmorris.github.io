@@ -13,6 +13,11 @@
         "name": "1.13.20 * Hello World!",
         "id": "hello-world",
         "filepath": "posts/hello.md"
+      },
+      {
+        "name": "1.23.20 * Why tech?",
+        "id": "why-tech",
+        "filepath": "posts/tech.md"
       }
     ]
   },
